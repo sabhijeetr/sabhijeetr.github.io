@@ -1,0 +1,62 @@
+.social-icons {
+  color: white;
+  background-color: black;
+  text-align: center;
+  padding: 70px 0;
+}
+
+@media (max-width:767px) {
+  .social-icons {
+    padding: 50px 0;
+  }
+}
+
+.social-icons i {
+  font-size: 50px;
+  display: inline-block;
+  color: white;
+  margin: 0 10px;
+  width: 75px;
+  height: 60px;
+  text-align: center;
+}
+
+.count {
+  /*font-family: font-family: 'Titillium Web', sans-serif;*/
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 25px;
+  color: #f2f2f2;
+  padding: 30px 0px 25px 7px;
+  font-weight: 400;
+  width: 120px;
+}
+
+.text-primary.display-4.as {
+  text-align: center;
+}
+
+@media (max-width: 992px) {
+  .text-primary.display-4.as {
+    text-align: left;
+  }
+}
+
+.netflixtxt {
+  font-family: 'Catamaran';
+  font-size: larger;
+  color: white;
+}
+
+.text-primary.display-4.as {
+  text-align: center;
+}
+
+.navbar-light .navbar-brand, .navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
+  background-image: url("the-shape-of-things (2).png");
+  width: 150px;
+  height: 35px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin: 10px 10px 0px 0px;
+}
+

@@ -1,0 +1,33 @@
+.navbar.navbar-light.navbar-expand-md {
+  background-color: black;
+}
+
+header.masthead {
+  position: relative;
+  overflow: hidden;
+  padding-top: calc(7rem + 72px);
+  padding-bottom: 7rem;
+  background: black;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+.fa.fa-linkedin {
+  font-size: 40px;
+}
+
+.fab.fa-instagram {
+}
+
+.col {
+  -ms-flex-preferred-size: 0;
+  flex-basis: 0;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  min-width: 0;
+  max-width: 100%;
+  margin-top: 25px;
+}
+
